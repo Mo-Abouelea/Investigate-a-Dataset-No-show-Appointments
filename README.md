@@ -1,1 +1,3 @@
-# Investigate-a-Dataset-No-show-Appointments
+# Investigate a Dataset: No-show Appointments
+## Introduction
+The aim of this project is to conduct a thorough investigation of a medical appointment dataset collected from 100,000 patients in Brazil. The dataset contains information on various characteristics of patients, including age, gender, and neighborhood, as well as whether or not they showed up for their scheduled appointment. The primary focus of this project is to answer the question of whether there is a relationship between these patient characteristics and the likelihood of them attending their appointment. Through careful analysis and interpretation of the data, we aim to gain insights into the factors that may influence patient attendance and inform strategies for improving appointment adherence in the future.
